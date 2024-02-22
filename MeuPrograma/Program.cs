@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel;
 
 namespace MeuPrograma
 {
@@ -12,6 +13,10 @@ namespace MeuPrograma
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bye World!");
+            // Exercise 2
+            int numero = 8;
+            Console.WriteLine(numero);
         }
+
     }
 }

@@ -32,6 +32,7 @@ namespace VariousTypes
             Console.WriteLine($"{church} \\u2764");
 
             //Criar variáveis reais de diferentes tipos inicializadas com literais adequados
+            
         }
     }
 }

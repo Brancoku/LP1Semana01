@@ -26,13 +26,27 @@ namespace VariousTypes
             char women = '\u2640'; 
             char love = '\u2764';
 
-            //Imprimir no ecrã o valor dos diferentes caracteres
             Console.WriteLine($"{women} \\u271d");
             Console.WriteLine($"{love} \\u2640");
             Console.WriteLine($"{church} \\u2764");
 
             //Criar variáveis reais de diferentes tipos inicializadas com literais adequados
-            
+            float flo = 3.14f;
+            double dou = 3.141;
+            decimal dec = 3.1415m; 
+
+            Console.WriteLine(flo);
+            Console.WriteLine(dou);
+            Console.WriteLine(dec);
+
+            //Criar duas variáveis booleanas, uma inicializada a true, outra a false
+
+            bool vdd = true;
+            bool fls = false;
+
+            Console.WriteLine(vdd);
+            Console.WriteLine(fls);
+
         }
     }
 }

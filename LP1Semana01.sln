@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManyStrings", "ManyStrings\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AskForInput", "AskForInput\AskForInput.csproj", "{BA81F19F-38E7-4F9D-838B-6B6C979F2A2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentraPelaVirgula", "CentraPelaVirgula\CentraPelaVirgula.csproj", "{5C82B313-8F30-4034-A04A-2042E1D4AC89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{BA81F19F-38E7-4F9D-838B-6B6C979F2A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA81F19F-38E7-4F9D-838B-6B6C979F2A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA81F19F-38E7-4F9D-838B-6B6C979F2A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C82B313-8F30-4034-A04A-2042E1D4AC89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C82B313-8F30-4034-A04A-2042E1D4AC89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C82B313-8F30-4034-A04A-2042E1D4AC89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C82B313-8F30-4034-A04A-2042E1D4AC89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

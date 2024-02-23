@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace VariousTypes
 {
@@ -6,6 +7,7 @@ namespace VariousTypes
     {
         static void Main(string[] args)
         {
+            Console.OutputEncoding = Encoding.UTF8;
             // Criar variáveis inteiras de diferentes tipos inicializadas com literais adequados
             sbyte a = 1;
             short b = 2;
@@ -46,7 +48,6 @@ namespace VariousTypes
 
             Console.WriteLine(vdd);
             Console.WriteLine(fls);
-
         }
     }
 }
